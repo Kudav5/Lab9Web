@@ -12,6 +12,6 @@
         </header>
         <nav>
             <a href="home.php">home</a>
-            <a href="tentang.php">tentang</a>
+            <a href="about.php">tentang</a>
             <a href="kontak.php">kontak</a>
         </nav>
